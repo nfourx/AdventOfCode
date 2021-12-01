@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AdventOfCode": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\nikla\\source\\repos\\AdventOfCode\\SonarReadings.txt"
+    }
+  }
+}
